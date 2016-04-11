@@ -1,0 +1,37 @@
+{
+  "name": "babel-preset-lts",
+  "version": "1.0.0",
+  "description": "Babel preset to use Node LTS (@4.2+) code in the browser",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/babel-preset-lts.git"
+  },
+  "keywords": [],
+  "author": "Mikey <michael.williams@enspiral.com> (http://dinosaur.is)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/babel-preset-lts/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/babel-preset-lts#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "babel-plugin-check-es2015-constants": "^6.7.2",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.5.2",
+    "babel-plugin-transform-es2015-block-scoped-functions": "^6.6.5",
+    "babel-plugin-transform-es2015-block-scoping": "^6.7.1",
+    "babel-plugin-transform-es2015-classes": "^6.6.5",
+    "babel-plugin-transform-es2015-computed-properties": "^6.6.5",
+    "babel-plugin-transform-es2015-duplicate-keys": "^6.6.4",
+    "babel-plugin-transform-es2015-for-of": "^6.6.0",
+    "babel-plugin-transform-es2015-function-name": "^6.5.0",
+    "babel-plugin-transform-es2015-literals": "^6.5.0",
+    "babel-plugin-transform-es2015-object-super": "^6.6.5",
+    "babel-plugin-transform-es2015-shorthand-properties": "^6.5.0",
+    "babel-plugin-transform-es2015-spread": "^6.6.5",
+    "babel-plugin-transform-es2015-template-literals": "^6.6.5",
+    "babel-plugin-transform-es2015-typeof-symbol": "^6.6.0",
+    "babel-plugin-transform-regenerator": "^6.6.5"
+  }
+}
